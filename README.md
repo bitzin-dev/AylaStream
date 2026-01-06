@@ -25,6 +25,8 @@ Watching movies with friends online often comes with hurdles: quality drops on s
 **AylaStream was built to simplify this:**
 It's a focused video player that allows users to create synchronized rooms using **direct video URLs (MP4/HLS)**. The goal is to provide a stable, ad-free environment with an interface that feels familiar and easy to use.
 
+[![Video Demonstration](https://img.shields.io/badge/VIDEO-DEMONSTRATION-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://drive.google.com/file/d/1NE4yNDkwQc-PeIiO2cBRPkBAFTZKUahk/view)
+
 ---
 
 ## 📺 Features
